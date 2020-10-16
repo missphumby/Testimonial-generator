@@ -1,0 +1,65 @@
+#img-container{
+    background:  linear-gradient( rgba(0, 0, 0, 0.7) 10%, rgba(0, 0, 0, 0.6)), url(../images/contBcg-0.jpeg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    padding-right: 0em;
+    margin: 0em;
+    background-size: cover;
+}
+
+#client{
+    color: red;
+    padding-top: 60px;
+}
+h1{
+    color: white
+}
+img{
+    border-radius: 50%;
+}
+#customer-name{
+    color: white;
+    margin-top: 40px;
+
+}
+.star-icon{
+    color: red;
+}
+#customer-text{
+color: white;
+font-weight: 500;
+font-size: 20px;
+}
+
+.quote-icon{
+    color: red;
+    font-size: 40px;
+}
+#boxed{
+    width: 60%;
+    padding: 20px;
+    border: solid 1px white;
+    border-radius: 5px;
+    margin-top: -50px !important;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.prevBtn{
+    float: left;
+    margin-left: 16%;
+    margin-top: 350px;
+    border-radius: 50%;
+    padding: 3px;
+    border: solid 1px; red;
+}
+.nextBtn{
+    float: right;
+    margin-right: 16%;
+    margin-top: 350px;
+    border-radius: 50%;
+    padding: 3px;
+    border: solid 1px; red;
+}
